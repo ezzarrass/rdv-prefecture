@@ -23,7 +23,7 @@ Permet de surveiller le site de la prefecture afin de savoir quand un rdv aparai
     Par default il se connecte :
     - sur http://www.seine-saint-denis.gouv.fr/booking/create/2616/0
     - toutes les 5 secondes.
-    - et il utilise la commande say du pc pour dire qu'il y a un rdv de disponible
+    - et il utilise la commande say pour dire qu'il y a un rdv de disponible
 
     ps: la comande say ne marche que sur mac
 
